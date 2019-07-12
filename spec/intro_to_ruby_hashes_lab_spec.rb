@@ -2,9 +2,7 @@ require_relative 'spec_helper'
 require_relative '../intro_to_ruby_hashes_lab.rb'
 
 
-def monopoly
 
-end
 describe "Building a Nested Monopoly Hash" do
   describe "Adding Key/Value Pairs in the Top Level" do
     describe "monopoly" do
